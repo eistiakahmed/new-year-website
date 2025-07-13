@@ -1,0 +1,87 @@
+/* google font */
+
+.merriweather-font {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+*{
+    max-width: 1320px;
+      margin:auto;
+}
+
+
+/* banner  */
+.banner-section{
+    background-image: url(../images/Banner\ Image.png);
+    height: 600px;
+    border-radius: 16px;
+    margin-top: 50px;
+    overflow: hidden;
+   
+   
+
+}
+
+.banner-title{
+     text-align: center;
+      justify-content: center;
+     padding-top: 177px;
+     padding-bottom: 177px;
+     padding-right: 344px;
+     padding-left: 344px;
+     background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+}
+
+.banner-title p{
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    
+   
+}
+
+.banner-title h2{
+    color: white;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0px;
+
+}
+
+.discount{
+    text-align: center;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.discount h1{
+    color: #FF0000;
+    font-size: 88px;
+    font-size: 700;
+    margin-bottom: 48px;
+}
+
+.discount p{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.new-year-image{
+    width: 802.9px;
+    height: 500px;
+    margin-top: 48px;
+}
