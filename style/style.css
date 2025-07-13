@@ -80,8 +80,72 @@
     margin-bottom: 16px;
 }
 
+.discount h2{
+    color: #070211;
+    font-size: 52px;
+    font-weight: 700px;
+    margin-bottom: 48px;
+}
+
 .new-year-image{
     width: 802.9px;
     height: 500px;
-    margin-top: 48px;
+}
+
+.vector{
+    background-image: url(../images/Vectorrr.png);
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden; 
+    border-radius: 16px;
+    gap: 40px;
+    margin-top: 120px;
+}
+
+.vector-title{
+    color: white;
+    /* background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%); */
+    padding-top: 126px;
+    padding-left: 126px;
+    
+
+}
+
+.vector-banner{
+    width: 349.16px;
+    height: 464.65px;
+    padding-right: 145px;
+
+
+}
+
+.vector h1{
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 24px;
+    text-align: left;
+    gap: 94px;
+    padding-right: 10px;
+}
+
+.midnight{
+    display: block;
+    padding-top: 10px;
+}
+
+
+.vector p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 48px;
+    color: #FFFFFFCC;
+}
+
+.vector h4{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+    padding-left: 10px;
+
 }
