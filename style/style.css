@@ -248,3 +248,83 @@
 
 }
 
+.holiday-sale{
+    margin-top: 120px;
+    text-align: center;
+}
+
+.holiday-sale h4{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.holiday-sale h1{
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 28px;
+}
+
+.lal{
+    color: rgb(255, 0, 0);
+}
+
+.holiday-sale p{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(7, 2, 17, 0.6);
+    padding-right: 126px;
+    padding-left: 126px;
+}
+
+
+.z-index-topic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    position: relative;
+}
+
+.magic{
+    bottom: -200px;
+    z-index: 1;
+}
+
+.portfilo{
+    margin-top: 120px;
+
+}
+
+.portfilo-title h5{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+    margin-bottom: 16px;
+}
+
+.portfilo-title h3{
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 16px;
+}
+
+.portfilo-title p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.6);
+    margin-bottom: 48px;
+    padding-right: 564px;
+}
+
+.portfilo-image{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.subscribe{
+    text-align: center;
+    align-items: center;
